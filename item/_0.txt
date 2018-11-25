@@ -1,0 +1,9 @@
+name:5¸Ó¸®
+mesh_folder:item/Helm/helm01
+mesh_filename:helm01.X
+item_texture:UI/(10)Item/helm01.png
+gold:100000
+defense:100000
+level:5
+item_type:0
+rotation:1

@@ -1,0 +1,11 @@
+name:¸äµÅÁö
+mesh_folder:Monster/Resource/boar
+mesh_filename:boar.X
+monster_Texture:UI/(4)Interface/Interface_17.png
+level:6
+damage:30
+defence:15
+hp:120
+exp:100
+money:10
+giveitem:5¸Ó¸®

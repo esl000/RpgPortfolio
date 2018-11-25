@@ -1,0 +1,226 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 24.06.2015 10:58:43
+
+newmtl Dungeons_Textures_Dalaran_Sewers_Dal_Sewer_Plainwall01
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Dal_Sewer_Plainwall01.tga
+map_Kd Dal_Sewer_Plainwall01.tga
+
+newmtl Dungeons_Textures_Dalaran_Sewers_Dal_Sewer_Brick
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Dal_Sewer_Brick.tga
+map_Kd Dal_Sewer_Brick.tga
+
+newmtl Dungeons_Textures_Dalaran_Sewers_Dal_Sewer_Plainwall02
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Dal_Sewer_Plainwall02.tga
+map_Kd Dal_Sewer_Plainwall02.tga
+
+newmtl Dungeons_Textures_Dalaran_Sewers_Dal_Sewer_Trim01
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Dal_Sewer_Trim01.tga
+map_Kd Dal_Sewer_Trim01.tga
+
+newmtl Dungeons_Textures_Dalaran_Sewers_Dal_Sewer_Trim02
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Dal_Sewer_Trim02.tga
+map_Kd Dal_Sewer_Trim02.tga
+
+newmtl Dungeons_Textures_Rock_Bm_Kzn_Rubble01
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Bm_Kzn_Rubble01.tga
+map_Kd Bm_Kzn_Rubble01.tga
+
+newmtl Dungeons_Textures_Dalaran_Eb_Dalaran_Stonetrim4
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Eb_Dalaran_Stonetrim4.tga
+map_Kd Eb_Dalaran_Stonetrim4.tga
+
+newmtl Dungeons_Textures_Dalaran_Sewers_Dal_Sewer_Archstone1
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Dal_Sewer_Archstone1.tga
+map_Kd Dal_Sewer_Archstone1.tga
+
+newmtl Dungeons_Textures_Dalaran_Dal_Walldecodark_Btm
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Dal_Walldecodark_Btm.tga
+map_Kd Dal_Walldecodark_Btm.tga
+
+newmtl Dungeons_Textures_Dalaran_Dal_Floor_Prison
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Dal_Floor_Prison.tga
+map_Kd Dal_Floor_Prison.tga
+
+newmtl Dungeons_Textures_Dalaran_Eb_Dalaran_Fence
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Eb_Dalaran_Fence.tga
+map_Kd Eb_Dalaran_Fence.tga
+
+newmtl Dungeons_Textures_Dalaran_Dal_Trim03
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Dal_Trim03.tga
+map_Kd Dal_Trim03.tga
+
+newmtl Dungeons_Textures_Dalaran_Eb_Dalaran_Trim002Dark
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Eb_Dalaran_Trim002Dark.tga
+map_Kd Eb_Dalaran_Trim002Dark.tga
+
+newmtl Dungeons_Textures_Dalaran_Dal_Stairs_Drk
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Dal_Stairs_Drk.tga
+map_Kd Dal_Stairs_Drk.tga
+
+newmtl Dungeons_Textures_Dalaran_Sewers_Dal_Sewer_Stonetrim02
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Dal_Sewer_Stonetrim02.tga
+map_Kd Dal_Sewer_Stonetrim02.tga
+
+newmtl Dungeons_Textures_Dalaran_Eb_Dalaran_Tinycrystalred
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Eb_Dalaran_Tinycrystalred.tga
+map_Kd Eb_Dalaran_Tinycrystalred.tga

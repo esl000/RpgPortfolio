@@ -1,0 +1,4 @@
+name:bush03
+mesh_folder:object/resource/bush(5)/bush03
+mesh_file:durotarbush03.obj
+collision:1

@@ -1,0 +1,9 @@
+name:2°Ë
+mesh_folder:item/Sword/weapon04
+mesh_filename:weapon04.X
+item_texture:UI/(10)Item/sword04.png
+gold:10
+damage:10
+level:2
+item_type:3
+rotation:0

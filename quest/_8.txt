@@ -1,0 +1,8 @@
+questkind:main
+name:악어 퇴치하자
+lore:악어의 수가 확실히 줄엇군 고맙네. 그리고 보니 철갑악어의 가죽은 갑옷을 만는데 많은 도움이 된다고 하더군 10개 정도만 모아다 주게.
+level:9
+takeitem:악어의 가죽
+takeitemamount:10
+exp:900
+money:1100

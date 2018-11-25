@@ -1,0 +1,5 @@
+name:실바나스
+mesh_folder:npc/npcResource/sylvanas
+mesh_filename:sylvanas.x
+level:100
+quest:실바나스의 첫 의뢰

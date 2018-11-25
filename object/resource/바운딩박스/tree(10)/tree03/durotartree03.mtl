@@ -1,0 +1,68 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 파일 생성됨: 19.06.2015 01:25:40
+
+newmtl DesolaceTreeBranches07b_Dbl
+	Ns 0.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.250000 0.250000 0.250000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\DaeKyung\Desktop\가마우지\포트폴리오\박건욱 강시훤 김민수 채대경\3D FrameWork\object\resource\tree(10)\tree03\DesolaceTreeBranches07b.tga
+	map_Kd C:\Users\DaeKyung\Desktop\가마우지\포트폴리오\박건욱 강시훤 김민수 채대경\3D FrameWork\object\resource\tree(10)\tree03\DesolaceTreeBranches07b.tga
+
+newmtl DuratorFatTree_branch02b_Dbl
+	Ns 0.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.250000 0.250000 0.250000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\DaeKyung\Desktop\가마우지\포트폴리오\박건욱 강시훤 김민수 채대경\3D FrameWork\object\resource\tree(10)\tree03\DuratorFatTree_branch02b.tga
+	map_Kd C:\Users\DaeKyung\Desktop\가마우지\포트폴리오\박건욱 강시훤 김민수 채대경\3D FrameWork\object\resource\tree(10)\tree03\DuratorFatTree_branch02b.tga
+
+newmtl BARRENSTREELEAVES04_COPY_Dbl
+	Ns 0.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.250000 0.250000 0.250000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\DaeKyung\Desktop\가마우지\포트폴리오\박건욱 강시훤 김민수 채대경\3D FrameWork\object\resource\tree(10)\tree03\BARRENSTREELEAVES04_COPY.tga
+	map_Kd C:\Users\DaeKyung\Desktop\가마우지\포트폴리오\박건욱 강시훤 김민수 채대경\3D FrameWork\object\resource\tree(10)\tree03\BARRENSTREELEAVES04_COPY.tga
+
+newmtl DuratorFatTree02c
+	Ns 0.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.250000 0.250000 0.250000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\DaeKyung\Desktop\가마우지\포트폴리오\박건욱 강시훤 김민수 채대경\3D FrameWork\object\resource\tree(10)\tree03\DuratorFatTree02c.tga
+	map_Kd C:\Users\DaeKyung\Desktop\가마우지\포트폴리오\박건욱 강시훤 김민수 채대경\3D FrameWork\object\resource\tree(10)\tree03\DuratorFatTree02c.tga
+
+newmtl wire_028028177
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.109804 0.109804 0.694118
+	Kd 0.109804 0.109804 0.694118
+	Ks 0.350000 0.350000 0.350000

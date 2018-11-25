@@ -1,0 +1,5 @@
+name:band01
+mesh_folder:npc/npcResource/bloodelf
+mesh_filename:bloodelf.x
+level:100
+quest:0

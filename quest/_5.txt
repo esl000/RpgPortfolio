@@ -1,0 +1,8 @@
+questkind:main
+name:¾¾¾Ñ ±¸ÇØ¿À±â
+lore:¸äµÅÁöµéÀÌ Áö´Ï°í ÀÖ´Â ¾¾¾ÑµéÀ» Á» ±¸ÇØ´Ù ÁÖ°Ù³ª?
+level:6
+takeitem:¾¾¾Ñ ¹¶Ä¡
+takeitemamount:10
+exp:700
+money:1000

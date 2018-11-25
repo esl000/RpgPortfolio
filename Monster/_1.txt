@@ -1,0 +1,11 @@
+name:몬스터강시훤
+mesh_folder:Monster/Resource/boar
+mesh_filename:boar.X
+monster_Texture:UI/(4)Interface/Interface_14.png
+level:10
+damage:1
+defence:10
+hp:100000
+exp:100
+money:1000
+giveitem:5머리

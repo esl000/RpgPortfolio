@@ -1,0 +1,8 @@
+questkind:main
+name:전갈의 등껍질 모아오기
+lore:이번엔 전갈에서 등껍질을 모아다주게나
+level:10
+takeitem:등껍질 전갈의 등껍질
+takeitemamount:10
+exp:1100
+money:1000

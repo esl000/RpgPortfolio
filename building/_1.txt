@@ -1,0 +1,4 @@
+name:dalaranprison
+mesh_folder:building/resource/dalaranprison
+mesh_file:dalaranprison.obj
+mesh_surface:dalaranprison_surface.obj

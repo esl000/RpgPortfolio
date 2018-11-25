@@ -1,0 +1,4 @@
+name:cliffrock03
+mesh_folder:object/resource/rock(17)/cliffrock03
+mesh_file:durotarcliffrock03.obj
+collision:1

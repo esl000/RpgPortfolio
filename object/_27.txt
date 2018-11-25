@@ -1,0 +1,4 @@
+name:palm03
+mesh_folder:object/resource/tree(10)/palm03
+mesh_file:durotarpalm03.obj
+collision:1

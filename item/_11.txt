@@ -1,0 +1,9 @@
+name:3°Ë
+mesh_folder:item/Sword/weapon02
+mesh_filename:weapon02.X
+item_texture:UI/(10)Item/sword02.png
+gold:100
+damage:100
+level:3
+item_type:3
+rotation:0

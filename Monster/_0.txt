@@ -1,0 +1,11 @@
+name:창조자대경
+mesh_folder:Monster/Resource/Gronn
+mesh_filename:Gronn.X
+monster_Texture:UI/(4)Interface/Interface_14.png
+level:10
+damage:10
+defence:10
+hp:1000
+exp:100
+money:1000
+giveitem:5머리

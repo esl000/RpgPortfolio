@@ -1,0 +1,4 @@
+name:cactusapple01
+mesh_folder:object/resource/bush(5)/cactusapple01
+mesh_file:cactusapple01.obj
+collision:1

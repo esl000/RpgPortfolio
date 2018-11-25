@@ -1,0 +1,4 @@
+name:ogrimmar
+mesh_folder:building/resource/ogrimmar
+mesh_file:ogrimmar.obj
+mesh_surface:ogrimar_surface.obj

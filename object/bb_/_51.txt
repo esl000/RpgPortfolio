@@ -1,0 +1,5 @@
+name:s_rock04_bb
+isbb:1
+x:12
+y:42
+z:18

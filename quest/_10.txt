@@ -1,0 +1,8 @@
+questkind:main
+name:다시 한번 등껍질 모아오기
+lore:등껍질이 좀금더 필요한거 같군 좀더 모아다 주겠나
+level:11
+takeitem:등껍질 전갈의 등껍질
+takeitemamount:20
+exp:1200
+money:1000

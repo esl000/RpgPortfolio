@@ -1,0 +1,5 @@
+name:bush03_bb
+isbb:1
+x:2
+y:4
+z:3

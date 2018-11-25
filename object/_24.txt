@@ -1,0 +1,4 @@
+name:taurenbridge01lantern
+mesh_folder:object/resource/taurenbridge01lantern
+mesh_file:taurenbridge01lantern.obj
+collision:1

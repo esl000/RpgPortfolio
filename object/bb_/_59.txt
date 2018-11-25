@@ -1,0 +1,5 @@
+name:tree01_bb
+isbb:1
+x:50
+y:10
+z:12

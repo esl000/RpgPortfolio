@@ -1,0 +1,5 @@
+name:볼진
+mesh_folder:npc/npcResource/voljin
+mesh_filename:voljin.x
+level:100
+quest:볼진의 부탁

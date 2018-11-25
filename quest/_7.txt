@@ -1,0 +1,8 @@
+questkind:main
+name:실바나스의 첫 의뢰
+lore:악어를 처치하는데 도움을 줬다고 하더군. 고맙다. 악어가 왜 이렇게 난폭해 졌는지 모르겠군 악어를 좀 더 퇴치해주길 바라네.
+level:8
+target:악어
+targetdeath:20
+exp:900
+money:1100

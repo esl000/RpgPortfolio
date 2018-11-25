@@ -1,0 +1,5 @@
+name:band02
+mesh_folder:npc/npcResource/troll
+mesh_filename:troll.x
+level:100
+quest:0

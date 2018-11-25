@@ -1,0 +1,4 @@
+name:flatrock01
+mesh_folder:object/resource/rock(17)/flatrock01
+mesh_file:flatrock01.obj
+collision:1

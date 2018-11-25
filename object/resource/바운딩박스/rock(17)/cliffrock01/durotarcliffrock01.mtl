@@ -1,0 +1,36 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 파일 생성됨: 19.06.2015 00:43:37
+
+newmtl DurotarRockNew01
+	Ns 0.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.250000 0.250000 0.250000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\DaeKyung\Desktop\가마우지\포트폴리오\박건욱 강시훤 김민수 채대경\3D FrameWork\object\resource\rock(17)\cliffrock01\DurotarRockNew01.tga
+	map_Kd C:\Users\DaeKyung\Desktop\가마우지\포트폴리오\박건욱 강시훤 김민수 채대경\3D FrameWork\object\resource\rock(17)\cliffrock01\DurotarRockNew01.tga
+
+newmtl wire_088177027
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.345098 0.694118 0.105882
+	Kd 0.345098 0.694118 0.105882
+	Ks 0.350000 0.350000 0.350000
+
+newmtl wire_153228184
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.600000 0.894118 0.721569
+	Kd 0.600000 0.894118 0.721569
+	Ks 0.350000 0.350000 0.350000

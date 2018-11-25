@@ -1,0 +1,5 @@
+name:오그리마 그런트
+mesh_folder:npc/npcResource/guard
+mesh_filename:guard.x
+level:100
+quest:0

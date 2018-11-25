@@ -1,0 +1,5 @@
+name:palm03_bb
+isbb:1
+x:20
+y:11
+z:16

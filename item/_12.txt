@@ -1,0 +1,9 @@
+name:4°Ë
+mesh_folder:item/Sword/weapon03
+mesh_filename:weapon03.X
+item_texture:UI/(10)Item/sword03.png
+gold:1000
+damage:1000
+level:4
+item_type:3
+rotation:0

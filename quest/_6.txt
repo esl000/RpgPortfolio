@@ -1,0 +1,8 @@
+questkind:main
+name:실바나스 만나러 가기
+lore:실바나스가 지금 좀 골란해 하는 문제가 있다더군 가서 좀 도와주게나
+level:7
+target:철갑 악어
+targetdeath:10
+exp:800
+money:1000

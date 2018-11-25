@@ -1,0 +1,1203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="3DFrameWork.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cAction.cpp">
+      <Filter>3DFrameWork\Action</Filter>
+    </ClCompile>
+    <ClCompile Include="cAllocateHierarchy.cpp">
+      <Filter>3DFrameWork\AllocateHierarchy</Filter>
+    </ClCompile>
+    <ClCompile Include="cFrame.cpp">
+      <Filter>3DFrameWork\Ase</Filter>
+    </ClCompile>
+    <ClCompile Include="cBillBoarding.cpp">
+      <Filter>3DFrameWork\billboarding</Filter>
+    </ClCompile>
+    <ClCompile Include="cCamera.cpp">
+      <Filter>3DFrameWork\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="cDijkstra.cpp">
+      <Filter>3DFrameWork\Dijkstra</Filter>
+    </ClCompile>
+    <ClCompile Include="cLight.cpp">
+      <Filter>3DFrameWork\Light</Filter>
+    </ClCompile>
+    <ClCompile Include="cAseLoad.cpp">
+      <Filter>3DFrameWork\Loader\AseLoader</Filter>
+    </ClCompile>
+    <ClCompile Include="cObjLoader.cpp">
+      <Filter>3DFrameWork\Loader\ObjLoader</Filter>
+    </ClCompile>
+    <ClCompile Include="cMainGame.cpp">
+      <Filter>3DFrameWork\MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="cMtlTex.cpp">
+      <Filter>3DFrameWork\MatrialTexture</Filter>
+    </ClCompile>
+    <ClCompile Include="cSkinnedMesh.cpp">
+      <Filter>3DFrameWork\Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="cGameObject.cpp">
+      <Filter>3DFrameWork\ObjectTool\Gameobject</Filter>
+    </ClCompile>
+    <ClCompile Include="cObject.cpp">
+      <Filter>3DFrameWork\ObjectTool\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="cGrid.cpp">
+      <Filter>3DFrameWork\ObjectTool\Grid</Filter>
+    </ClCompile>
+    <ClCompile Include="cPyramid.cpp">
+      <Filter>3DFrameWork\ObjectTool\Pyramid</Filter>
+    </ClCompile>
+    <ClCompile Include="cActionMove.cpp">
+      <Filter>3DFrameWork\Entity\Action</Filter>
+    </ClCompile>
+    <ClCompile Include="cActionStand.cpp">
+      <Filter>3DFrameWork\Entity\Action</Filter>
+    </ClCompile>
+    <ClCompile Include="cActionAttack.cpp">
+      <Filter>3DFrameWork\Entity\Action</Filter>
+    </ClCompile>
+    <ClCompile Include="cActionBaseAi.cpp">
+      <Filter>3DFrameWork\Entity\AI</Filter>
+    </ClCompile>
+    <ClCompile Include="cCustomFile.cpp">
+      <Filter>3DFrameWork\CustomFile</Filter>
+    </ClCompile>
+    <ClCompile Include="cCustomQuest.cpp">
+      <Filter>3DFrameWork\Quest</Filter>
+    </ClCompile>
+    <ClCompile Include="cQuestDatabase.cpp">
+      <Filter>3DFrameWork\Quest</Filter>
+    </ClCompile>
+    <ClCompile Include="cChunk.cpp">
+      <Filter>3DFrameWork\Chunk</Filter>
+    </ClCompile>
+    <ClCompile Include="cEntity.cpp">
+      <Filter>3DFrameWork\Entity\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="cUnitCustomNpc.cpp">
+      <Filter>3DFrameWork\Entity\Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="cNpcDataBase.cpp">
+      <Filter>3DFrameWork\Entity\Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="cMonsterDatabase.cpp">
+      <Filter>3DFrameWork\Entity\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="cUnitMonster.cpp">
+      <Filter>3DFrameWork\Entity\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="iUnitAction.cpp">
+      <Filter>3DFrameWork\Entity\Action\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="iScene.cpp">
+      <Filter>3DFrameWork\Scene\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="cGroup.cpp">
+      <Filter>3DFrameWork\Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="iMap.cpp">
+      <Filter>3DFrameWork\Map\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="cObjMap.cpp">
+      <Filter>3DFrameWork\Map\ObjMap</Filter>
+    </ClCompile>
+    <ClCompile Include="cHeightMap.cpp">
+      <Filter>3DFrameWork\Map\HeightMap</Filter>
+    </ClCompile>
+    <ClCompile Include="cMap.cpp">
+      <Filter>3DFrameWork\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="cUnit.cpp">
+      <Filter>3DFrameWork\Entity\Unit</Filter>
+    </ClCompile>
+    <ClCompile Include="cUnitPlayer.cpp">
+      <Filter>3DFrameWork\Entity\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="iEffect.cpp">
+      <Filter>3DFrameWork\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="cSkill.cpp">
+      <Filter>3DFrameWork\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="cDeviceManager.cpp">
+      <Filter>3DFrameWork\Manager\Device</Filter>
+    </ClCompile>
+    <ClCompile Include="cEffectManager.cpp">
+      <Filter>3DFrameWork\Manager\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="cEntityManager.cpp">
+      <Filter>3DFrameWork\Manager\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="cFontManager.cpp">
+      <Filter>3DFrameWork\Manager\Font</Filter>
+    </ClCompile>
+    <ClCompile Include="cFrustum.cpp">
+      <Filter>3DFrameWork\Manager\Frustum</Filter>
+    </ClCompile>
+    <ClCompile Include="cObjectManager.cpp">
+      <Filter>3DFrameWork\Manager\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="cSceneManager.cpp">
+      <Filter>3DFrameWork\Manager\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="cSkillManager.cpp">
+      <Filter>3DFrameWork\Manager\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="cSkinnedMeshManager.cpp">
+      <Filter>3DFrameWork\Manager\SkinnedMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="cTextureManager.cpp">
+      <Filter>3DFrameWork\Manager\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="cTimeManager.cpp">
+      <Filter>3DFrameWork\Manager\Time</Filter>
+    </ClCompile>
+    <ClCompile Include="cUnitManager.cpp">
+      <Filter>3DFrameWork\Manager\Unit</Filter>
+    </ClCompile>
+    <ClCompile Include="soundManager.cpp">
+      <Filter>3DFrameWork\Manager\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="cEntityBuilding.cpp">
+      <Filter>3DFrameWork\Entity\Building</Filter>
+    </ClCompile>
+    <ClCompile Include="cEntityObject.cpp">
+      <Filter>3DFrameWork\Entity\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="cBuildingDatabase.cpp">
+      <Filter>3DFrameWork\Entity\Building</Filter>
+    </ClCompile>
+    <ClCompile Include="cObjectDatabase.cpp">
+      <Filter>3DFrameWork\Entity\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="cIntersectManager.cpp">
+      <Filter>3DFrameWork\Manager\Intersect</Filter>
+    </ClCompile>
+    <ClCompile Include="cSkillActionWhirlWind.cpp">
+      <Filter>3DFrameWork\Entity\Player\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="cSkillActionVictoryRush.cpp">
+      <Filter>3DFrameWork\Entity\Player\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="cSkillActionThunderClap.cpp">
+      <Filter>3DFrameWork\Entity\Player\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="cSkillActionPummel.cpp">
+      <Filter>3DFrameWork\Entity\Player\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="cSkillActionMortalStrike.cpp">
+      <Filter>3DFrameWork\Entity\Player\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="cSkillActionHamstring.cpp">
+      <Filter>3DFrameWork\Entity\Player\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="cSkillActionExecute.cpp">
+      <Filter>3DFrameWork\Entity\Player\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="cSkillActionCharge.cpp">
+      <Filter>3DFrameWork\Entity\Player\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="cSkillActionBladeStorm.cpp">
+      <Filter>3DFrameWork\Entity\Player\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="cNpcCourse.cpp">
+      <Filter>3DFrameWork\Entity\Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="cUIInterface.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIInterface</Filter>
+    </ClCompile>
+    <ClCompile Include="cUIIQuest.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIQuest</Filter>
+    </ClCompile>
+    <ClCompile Include="cUIInvenTory.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIInvenTory</Filter>
+    </ClCompile>
+    <ClCompile Include="cUILoading.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUILoading</Filter>
+    </ClCompile>
+    <ClCompile Include="cUIMainView.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIMainView</Filter>
+    </ClCompile>
+    <ClCompile Include="cUIStatus.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIStatus</Filter>
+    </ClCompile>
+    <ClCompile Include="cUIButton.cpp">
+      <Filter>3DFrameWork\UI\UI%28ex%29\cUIButton</Filter>
+    </ClCompile>
+    <ClCompile Include="cUIImageView.cpp">
+      <Filter>3DFrameWork\UI\UI%28ex%29\cUIImageView</Filter>
+    </ClCompile>
+    <ClCompile Include="cUITextView.cpp">
+      <Filter>3DFrameWork\UI\UI%28ex%29\cUITextView</Filter>
+    </ClCompile>
+    <ClCompile Include="cTileManager.cpp">
+      <Filter>3DFrameWork\Manager\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="cPicking.cpp">
+      <Filter>3DFrameWork\Picking</Filter>
+    </ClCompile>
+    <ClCompile Include="cRay.cpp">
+      <Filter>3DFrameWork\Manager\Ray</Filter>
+    </ClCompile>
+    <ClCompile Include="cObjManager.cpp">
+      <Filter>3DFrameWork\Manager\Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="cStarCamera.cpp">
+      <Filter>3DFrameWork\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="cDataload.cpp">
+      <Filter>3DFrameWork\DataLoad</Filter>
+    </ClCompile>
+    <ClCompile Include="cOctree.cpp">
+      <Filter>3DFrameWork\Octree</Filter>
+    </ClCompile>
+    <ClCompile Include="cGameScene.cpp">
+      <Filter>3DFrameWork\Scene\GameScene</Filter>
+    </ClCompile>
+    <ClCompile Include="cLoadingScene.cpp">
+      <Filter>3DFrameWork\Scene\LoadingScene</Filter>
+    </ClCompile>
+    <ClCompile Include="cSelectScene.cpp">
+      <Filter>3DFrameWork\Scene\SelectScene</Filter>
+    </ClCompile>
+    <ClCompile Include="cMenuScene.cpp">
+      <Filter>3DFrameWork\Scene\MenuScene</Filter>
+    </ClCompile>
+    <ClCompile Include="cMapToolScene.cpp">
+      <Filter>3DFrameWork\Scene\MapToolScene</Filter>
+    </ClCompile>
+    <ClCompile Include="cUImanager.cpp">
+      <Filter>3DFrameWork\Manager\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="cPlayerAction.cpp">
+      <Filter>3DFrameWork\Entity\Player\Action</Filter>
+    </ClCompile>
+    <ClCompile Include="cPlayerNormalAction.cpp">
+      <Filter>3DFrameWork\Entity\Player\Action\Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="cPlayerBattleAction.cpp">
+      <Filter>3DFrameWork\Entity\Player\Action\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="cPlayerActionBackMove.cpp">
+      <Filter>3DFrameWork\Entity\Player\Action\Move</Filter>
+    </ClCompile>
+    <ClCompile Include="cPlayerActionFrontMove.cpp">
+      <Filter>3DFrameWork\Entity\Player\Action\Move</Filter>
+    </ClCompile>
+    <ClCompile Include="cPlayerActionAttack.cpp">
+      <Filter>3DFrameWork\Entity\Player\Action\Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="cPlayerActionStand.cpp">
+      <Filter>3DFrameWork\Entity\Player\Action\Stand</Filter>
+    </ClCompile>
+    <ClCompile Include="cCulling.cpp">
+      <Filter>3DFrameWork\Manager\Frustum</Filter>
+    </ClCompile>
+    <ClCompile Include="cText.cpp">
+      <Filter>3DFrameWork\Entity\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="cBuff.cpp">
+      <Filter>3DFrameWork\Entity\Buff\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="cBuffStun.cpp">
+      <Filter>3DFrameWork\Entity\Buff\Stun</Filter>
+    </ClCompile>
+    <ClCompile Include="cEquip.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIStatus</Filter>
+    </ClCompile>
+    <ClCompile Include="cEffectLightningNova.cpp">
+      <Filter>3DFrameWork\Effect\PlayerEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="cEffectSword.cpp">
+      <Filter>3DFrameWork\Effect\PlayerEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="cEffectTrajectory.cpp">
+      <Filter>3DFrameWork\Effect\PlayerEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="cMessageManager.cpp">
+      <Filter>3DFrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="cViewPos.cpp">
+      <Filter>3DFrameWork\Scene\MapToolScene\View</Filter>
+    </ClCompile>
+    <ClCompile Include="cSkyBox.cpp">
+      <Filter>3DFrameWork\Entity\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="cPlayerActionPosMove.cpp">
+      <Filter>3DFrameWork\Entity\Player\Action\Move</Filter>
+    </ClCompile>
+    <ClCompile Include="cDieEffect.cpp">
+      <Filter>3DFrameWork\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="cUIPlayerBar.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIInterface</Filter>
+    </ClCompile>
+    <ClCompile Include="cQuestList.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIQuest</Filter>
+    </ClCompile>
+    <ClCompile Include="cUIQuestList.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIQuest</Filter>
+    </ClCompile>
+    <ClCompile Include="cUINpcWindow.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIQuest</Filter>
+    </ClCompile>
+    <ClCompile Include="cUIMonsterBar.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIInterface</Filter>
+    </ClCompile>
+    <ClCompile Include="cUIRootItem.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIRootItem</Filter>
+    </ClCompile>
+    <ClCompile Include="cInvenTory.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIInvenTory</Filter>
+    </ClCompile>
+    <ClCompile Include="cItem.cpp">
+      <Filter>3DFrameWork\item</Filter>
+    </ClCompile>
+    <ClCompile Include="cItemDatabase.cpp">
+      <Filter>3DFrameWork\item</Filter>
+    </ClCompile>
+    <ClCompile Include="cShaderManager.cpp">
+      <Filter>3DFrameWork\Manager\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="cRootItem.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIRootItem</Filter>
+    </ClCompile>
+    <ClCompile Include="cUISkillInvenTory.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUISkill</Filter>
+    </ClCompile>
+    <ClCompile Include="cSkillInven.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUISkill</Filter>
+    </ClCompile>
+    <ClCompile Include="cSkillAd.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUISkill</Filter>
+    </ClCompile>
+    <ClCompile Include="cUIStore.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIStore</Filter>
+    </ClCompile>
+    <ClCompile Include="cEffectSlow.cpp">
+      <Filter>3DFrameWork\Effect\PlayerEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="cEffectTriangle.cpp">
+      <Filter>3DFrameWork\Effect\PlayerEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="cEffectHit.cpp">
+      <Filter>3DFrameWork\Effect\PlayerEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="cEffectLightning.cpp">
+      <Filter>3DFrameWork\Effect\PlayerEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="cDamageText.cpp">
+      <Filter>3DFrameWork\Entity\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="cEffectFont.cpp">
+      <Filter>3DFrameWork\Effect\PlayerEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="cUIQuest.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIQuest</Filter>
+    </ClCompile>
+    <ClCompile Include="cUIObject.cpp">
+      <Filter>3DFrameWork\UI\UI%28list%29</Filter>
+    </ClCompile>
+    <ClCompile Include="cTestScene.cpp">
+      <Filter>3DFrameWork\Scene\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="cActionBossAi.cpp">
+      <Filter>3DFrameWork\Entity\AI</Filter>
+    </ClCompile>
+    <ClCompile Include="cActionSleep.cpp">
+      <Filter>3DFrameWork\Entity\Action</Filter>
+    </ClCompile>
+    <ClCompile Include="cSkillActionCyclone.cpp">
+      <Filter>3DFrameWork\Entity\Action\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="cSkillActionCleave.cpp">
+      <Filter>3DFrameWork\Entity\Action\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="cEffectCleave.cpp">
+      <Filter>3DFrameWork\Effect\MosterEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="cEffectCyclone.cpp">
+      <Filter>3DFrameWork\Effect\MosterEffect</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Asciitok.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="3DFrameWork.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="cAction.h">
+      <Filter>3DFrameWork\Action</Filter>
+    </ClInclude>
+    <ClInclude Include="cAllocateHierarchy.h">
+      <Filter>3DFrameWork\AllocateHierarchy</Filter>
+    </ClInclude>
+    <ClInclude Include="cFrame.h">
+      <Filter>3DFrameWork\Ase</Filter>
+    </ClInclude>
+    <ClInclude Include="cBillBoarding.h">
+      <Filter>3DFrameWork\billboarding</Filter>
+    </ClInclude>
+    <ClInclude Include="cCamera.h">
+      <Filter>3DFrameWork\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="cDijkstra.h">
+      <Filter>3DFrameWork\Dijkstra</Filter>
+    </ClInclude>
+    <ClInclude Include="cLight.h">
+      <Filter>3DFrameWork\Light</Filter>
+    </ClInclude>
+    <ClInclude Include="cMainGame.h">
+      <Filter>3DFrameWork\MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="cMtlTex.h">
+      <Filter>3DFrameWork\MatrialTexture</Filter>
+    </ClInclude>
+    <ClInclude Include="cGameObject.h">
+      <Filter>3DFrameWork\ObjectTool\Gameobject</Filter>
+    </ClInclude>
+    <ClInclude Include="cGrid.h">
+      <Filter>3DFrameWork\ObjectTool\Grid</Filter>
+    </ClInclude>
+    <ClInclude Include="cPyramid.h">
+      <Filter>3DFrameWork\ObjectTool\Pyramid</Filter>
+    </ClInclude>
+    <ClInclude Include="cActionMove.h">
+      <Filter>3DFrameWork\Entity\Action</Filter>
+    </ClInclude>
+    <ClInclude Include="cActionStand.h">
+      <Filter>3DFrameWork\Entity\Action</Filter>
+    </ClInclude>
+    <ClInclude Include="cActionAttack.h">
+      <Filter>3DFrameWork\Entity\Action</Filter>
+    </ClInclude>
+    <ClInclude Include="cCustomFile.h">
+      <Filter>3DFrameWork\CustomFile</Filter>
+    </ClInclude>
+    <ClInclude Include="cCustomQuest.h">
+      <Filter>3DFrameWork\Quest</Filter>
+    </ClInclude>
+    <ClInclude Include="cQuestDatabase.h">
+      <Filter>3DFrameWork\Quest</Filter>
+    </ClInclude>
+    <ClInclude Include="cChunk.h">
+      <Filter>3DFrameWork\Chunk</Filter>
+    </ClInclude>
+    <ClInclude Include="cAseLoad.h">
+      <Filter>3DFrameWork\Loader\AseLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="cActionBaseAi.h">
+      <Filter>3DFrameWork\Entity\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="cEntity.h">
+      <Filter>3DFrameWork\Entity\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="cNpcDataBase.h">
+      <Filter>3DFrameWork\Entity\Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="cUnitCustomNpc.h">
+      <Filter>3DFrameWork\Entity\Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="cMonsterDatabase.h">
+      <Filter>3DFrameWork\Entity\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="cUnitMonster.h">
+      <Filter>3DFrameWork\Entity\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="iUnitAction.h">
+      <Filter>3DFrameWork\Entity\Action\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="cObjLoader.h">
+      <Filter>3DFrameWork\Loader\ObjLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="cObject.h">
+      <Filter>3DFrameWork\ObjectTool\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="iScene.h">
+      <Filter>3DFrameWork\Scene\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="cGroup.h">
+      <Filter>3DFrameWork\Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="iMap.h">
+      <Filter>3DFrameWork\Map\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="cObjMap.h">
+      <Filter>3DFrameWork\Map\ObjMap</Filter>
+    </ClInclude>
+    <ClInclude Include="cHeightMap.h">
+      <Filter>3DFrameWork\Map\HeightMap</Filter>
+    </ClInclude>
+    <ClInclude Include="cMap.h">
+      <Filter>3DFrameWork\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="cSkinnedMesh.h">
+      <Filter>3DFrameWork\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="cUnit.h">
+      <Filter>3DFrameWork\Entity\Unit</Filter>
+    </ClInclude>
+    <ClInclude Include="cUnitPlayer.h">
+      <Filter>3DFrameWork\Entity\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="iEffect.h">
+      <Filter>3DFrameWork\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="cSkill.h">
+      <Filter>3DFrameWork\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="cDeviceManager.h">
+      <Filter>3DFrameWork\Manager\Device</Filter>
+    </ClInclude>
+    <ClInclude Include="cEffectManager.h">
+      <Filter>3DFrameWork\Manager\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="cEntityManager.h">
+      <Filter>3DFrameWork\Manager\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="cFontManager.h">
+      <Filter>3DFrameWork\Manager\Font</Filter>
+    </ClInclude>
+    <ClInclude Include="cFrustum.h">
+      <Filter>3DFrameWork\Manager\Frustum</Filter>
+    </ClInclude>
+    <ClInclude Include="cObjectManager.h">
+      <Filter>3DFrameWork\Manager\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="cSceneManager.h">
+      <Filter>3DFrameWork\Manager\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="cSkillManager.h">
+      <Filter>3DFrameWork\Manager\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="cSkinnedMeshManager.h">
+      <Filter>3DFrameWork\Manager\SkinnedMesh</Filter>
+    </ClInclude>
+    <ClInclude Include="cTextureManager.h">
+      <Filter>3DFrameWork\Manager\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="cTimeManager.h">
+      <Filter>3DFrameWork\Manager\Time</Filter>
+    </ClInclude>
+    <ClInclude Include="cUnitManager.h">
+      <Filter>3DFrameWork\Manager\Unit</Filter>
+    </ClInclude>
+    <ClInclude Include="soundManager.h">
+      <Filter>3DFrameWork\Manager\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="cEntityBuilding.h">
+      <Filter>3DFrameWork\Entity\Building</Filter>
+    </ClInclude>
+    <ClInclude Include="cEntityObject.h">
+      <Filter>3DFrameWork\Entity\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="cBuildingDatabase.h">
+      <Filter>3DFrameWork\Entity\Building</Filter>
+    </ClInclude>
+    <ClInclude Include="cObjectDatabase.h">
+      <Filter>3DFrameWork\Entity\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="cIntersectManager.h">
+      <Filter>3DFrameWork\Manager\Intersect</Filter>
+    </ClInclude>
+    <ClInclude Include="cSkillActionWhirlWind.h">
+      <Filter>3DFrameWork\Entity\Player\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="cSkillActionVictoryRush.h">
+      <Filter>3DFrameWork\Entity\Player\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="cSkillActionThunderClap.h">
+      <Filter>3DFrameWork\Entity\Player\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="cSkillActionPummel.h">
+      <Filter>3DFrameWork\Entity\Player\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="cSkillActionMortalStrike.h">
+      <Filter>3DFrameWork\Entity\Player\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="cSkillActionHamstring.h">
+      <Filter>3DFrameWork\Entity\Player\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="cSkillActionExecute.h">
+      <Filter>3DFrameWork\Entity\Player\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="cSkillActionCharge.h">
+      <Filter>3DFrameWork\Entity\Player\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="cSkillActionBladeStorm.h">
+      <Filter>3DFrameWork\Entity\Player\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="cNpcCourse.h">
+      <Filter>3DFrameWork\Entity\Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="cUIInterface.h">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="cUIIQuest.h">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIQuest</Filter>
+    </ClInclude>
+    <ClInclude Include="cUIInvenTory.h">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIInvenTory</Filter>
+    </ClInclude>
+    <ClInclude Include="cUILoading.h">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUILoading</Filter>
+    </ClInclude>
+    <ClInclude Include="cUIButton.h">
+      <Filter>3DFrameWork\UI\UI%28ex%29\cUIButton</Filter>
+    </ClInclude>
+    <ClInclude Include="cUIImageView.h">
+      <Filter>3DFrameWork\UI\UI%28ex%29\cUIImageView</Filter>
+    </ClInclude>
+    <ClInclude Include="cUITextView.h">
+      <Filter>3DFrameWork\UI\UI%28ex%29\cUITextView</Filter>
+    </ClInclude>
+    <ClInclude Include="cTileManager.h">
+      <Filter>3DFrameWork\Manager\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="cPicking.h">
+      <Filter>3DFrameWork\Picking</Filter>
+    </ClInclude>
+    <ClInclude Include="cRay.h">
+      <Filter>3DFrameWork\Manager\Ray</Filter>
+    </ClInclude>
+    <ClInclude Include="cObjManager.h">
+      <Filter>3DFrameWork\Manager\Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="cStarCamera.h">
+      <Filter>3DFrameWork\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="cDataload.h">
+      <Filter>3DFrameWork\DataLoad</Filter>
+    </ClInclude>
+    <ClInclude Include="cUIMainView.h">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIMainView</Filter>
+    </ClInclude>
+    <ClInclude Include="cOctree.h">
+      <Filter>3DFrameWork\Octree</Filter>
+    </ClInclude>
+    <ClInclude Include="cGameScene.h">
+      <Filter>3DFrameWork\Scene\GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="cLoadingScene.h">
+      <Filter>3DFrameWork\Scene\LoadingScene</Filter>
+    </ClInclude>
+    <ClInclude Include="cSelectScene.h">
+      <Filter>3DFrameWork\Scene\SelectScene</Filter>
+    </ClInclude>
+    <ClInclude Include="cMenuScene.h">
+      <Filter>3DFrameWork\Scene\MenuScene</Filter>
+    </ClInclude>
+    <ClInclude Include="cMapToolScene.h">
+      <Filter>3DFrameWork\Scene\MapToolScene</Filter>
+    </ClInclude>
+    <ClInclude Include="cUImanager.h">
+      <Filter>3DFrameWork\Manager\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="cPlayerAction.h">
+      <Filter>3DFrameWork\Entity\Player\Action</Filter>
+    </ClInclude>
+    <ClInclude Include="cPlayerNormalAction.h">
+      <Filter>3DFrameWork\Entity\Player\Action\Normal</Filter>
+    </ClInclude>
+    <ClInclude Include="cPlayerBattleAction.h">
+      <Filter>3DFrameWork\Entity\Player\Action\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="cPlayerActionBackMove.h">
+      <Filter>3DFrameWork\Entity\Player\Action\Move</Filter>
+    </ClInclude>
+    <ClInclude Include="cPlayerActionFrontMove.h">
+      <Filter>3DFrameWork\Entity\Player\Action\Move</Filter>
+    </ClInclude>
+    <ClInclude Include="cPlayerActionAttack.h">
+      <Filter>3DFrameWork\Entity\Player\Action\Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="cPlayerActionStand.h">
+      <Filter>3DFrameWork\Entity\Player\Action\Stand</Filter>
+    </ClInclude>
+    <ClInclude Include="cCulling.h">
+      <Filter>3DFrameWork\Manager\Frustum</Filter>
+    </ClInclude>
+    <ClInclude Include="cText.h">
+      <Filter>3DFrameWork\Entity\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="cBuff.h">
+      <Filter>3DFrameWork\Entity\Buff\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="cBuffStun.h">
+      <Filter>3DFrameWork\Entity\Buff\Stun</Filter>
+    </ClInclude>
+    <ClInclude Include="cEquip.h">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIStatus</Filter>
+    </ClInclude>
+    <ClInclude Include="cEffectLightningNova.h">
+      <Filter>3DFrameWork\Effect\PlayerEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="cEffectSword.h">
+      <Filter>3DFrameWork\Effect\PlayerEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="cEffectTrajectory.h">
+      <Filter>3DFrameWork\Effect\PlayerEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="cMessageManager.h">
+      <Filter>3DFrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="cViewPos.h">
+      <Filter>3DFrameWork\Scene\MapToolScene\View</Filter>
+    </ClInclude>
+    <ClInclude Include="cSkyBox.h">
+      <Filter>3DFrameWork\Entity\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="cPlayerActionPosMove.h">
+      <Filter>3DFrameWork\Entity\Player\Action\Move</Filter>
+    </ClInclude>
+    <ClInclude Include="cDieEffect.h">
+      <Filter>3DFrameWork\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="cUIPlayerBar.h">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="cQuestList.h">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIQuest</Filter>
+    </ClInclude>
+    <ClInclude Include="cUIQuestList.h">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIQuest</Filter>
+    </ClInclude>
+    <ClInclude Include="cUINpcWindow.h">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIQuest</Filter>
+    </ClInclude>
+    <ClInclude Include="cUIMonsterBar.h">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="cUIStatus.h">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIStatus</Filter>
+    </ClInclude>
+    <ClInclude Include="cUIRootItem.h">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIRootItem</Filter>
+    </ClInclude>
+    <ClInclude Include="cInvenTory.h">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIInvenTory</Filter>
+    </ClInclude>
+    <ClInclude Include="cItem.h">
+      <Filter>3DFrameWork\item</Filter>
+    </ClInclude>
+    <ClInclude Include="cItemDatabase.h">
+      <Filter>3DFrameWork\item</Filter>
+    </ClInclude>
+    <ClInclude Include="cShaderManager.h">
+      <Filter>3DFrameWork\Manager\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="cRootItem.h">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIRootItem</Filter>
+    </ClInclude>
+    <ClInclude Include="cUISkillInvenTory.h">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUISkill</Filter>
+    </ClInclude>
+    <ClInclude Include="cSkillInven.h">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUISkill</Filter>
+    </ClInclude>
+    <ClInclude Include="cSkillAd.h">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUISkill</Filter>
+    </ClInclude>
+    <ClInclude Include="cUIStore.h">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIStore</Filter>
+    </ClInclude>
+    <ClInclude Include="cEffectSlow.h">
+      <Filter>3DFrameWork\Effect\PlayerEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="cEffectTriangle.h">
+      <Filter>3DFrameWork\Effect\PlayerEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="cEffectHit.h">
+      <Filter>3DFrameWork\Effect\PlayerEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="cEffectLightning.h">
+      <Filter>3DFrameWork\Effect\PlayerEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="cDamageText.h">
+      <Filter>3DFrameWork\Entity\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="cEffectFont.h">
+      <Filter>3DFrameWork\Effect\PlayerEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="cUIQuest.h">
+      <Filter>3DFrameWork\UI\UI%28list%29\cUIQuest</Filter>
+    </ClInclude>
+    <ClInclude Include="cUIObject.h">
+      <Filter>3DFrameWork\UI\UI%28list%29</Filter>
+    </ClInclude>
+    <ClInclude Include="cTestScene.h">
+      <Filter>3DFrameWork\Scene\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="cActionBossAi.h">
+      <Filter>3DFrameWork\Entity\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="cActionSleep.h">
+      <Filter>3DFrameWork\Entity\Action</Filter>
+    </ClInclude>
+    <ClInclude Include="cSkillActionCyclone.h">
+      <Filter>3DFrameWork\Entity\Action\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="cSkillActionCleave.h">
+      <Filter>3DFrameWork\Entity\Action\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="cEffectCleave.h">
+      <Filter>3DFrameWork\Effect\MosterEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="cEffectCyclone.h">
+      <Filter>3DFrameWork\Effect\MosterEffect</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="3DFrameWork.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="3DFrameWork">
+      <UniqueIdentifier>{78f49969-f686-41cc-b3d0-7fb43d928c49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{7929c5a8-2114-4cf3-8f6c-e39af2a9f607}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{d9fc3e3d-664b-460b-9bf2-bfd0e55d2c24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{7229c328-cf61-4e74-adad-7c5e730d56f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Manager">
+      <UniqueIdentifier>{2ffe41d1-96ea-4845-b1df-b2cc45c2e6f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Action">
+      <UniqueIdentifier>{d68f98d7-8305-42a0-b114-5fcc8fd7f252}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\AllocateHierarchy">
+      <UniqueIdentifier>{f1616385-5087-4929-aace-e6639dbb0453}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Ase">
+      <UniqueIdentifier>{b26d7e2b-c6d6-416c-8078-0f8551f25b7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\billboarding">
+      <UniqueIdentifier>{56fe64aa-5444-47cf-a27e-684b83e152b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Camera">
+      <UniqueIdentifier>{b20ae07b-6310-4212-9795-fdb0be47ddf9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Dijkstra">
+      <UniqueIdentifier>{5472c38a-8d94-4e7c-9182-05df8cbadc9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Light">
+      <UniqueIdentifier>{7cfc32ce-c63d-421a-934c-ea830f5fbed4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Loader">
+      <UniqueIdentifier>{4ec7b498-2ed0-4a92-9bd4-9ea09d0838b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Loader\AseLoader">
+      <UniqueIdentifier>{2334b2bd-b915-41a9-b0ca-0a5e3bc99a42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Loader\ObjLoader">
+      <UniqueIdentifier>{a5f31b2f-317c-4867-9336-1a3e76b2a183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\MainGame">
+      <UniqueIdentifier>{40ccc645-a7fe-4173-891c-3037774439f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\MatrialTexture">
+      <UniqueIdentifier>{8a6220b7-a0dc-4b5f-bcc7-8f0c92427dc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Mesh">
+      <UniqueIdentifier>{67f07137-7cb8-4525-b358-6f354561d77e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\ObjectTool">
+      <UniqueIdentifier>{f1db4d9a-6cc4-4e6e-872e-d69171c3d98f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\ObjectTool\Object">
+      <UniqueIdentifier>{c3b834b7-8912-461e-9669-907e3284e6ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\ObjectTool\Gameobject">
+      <UniqueIdentifier>{5e45439a-ec87-413e-830c-5c9243ecba5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\ObjectTool\Grid">
+      <UniqueIdentifier>{126f9ca9-6b38-480c-93e7-cdc0694626fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\ObjectTool\Pyramid">
+      <UniqueIdentifier>{456f53b9-0485-48d9-875c-345abc7f6231}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\UI">
+      <UniqueIdentifier>{5176481e-5378-4e98-9b41-2e067af0e17c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity">
+      <UniqueIdentifier>{3900cca0-abe5-4cc2-b546-c46aa201e873}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Player">
+      <UniqueIdentifier>{16447460-4afc-4749-a094-82b3027a64dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Entity">
+      <UniqueIdentifier>{be2c0cdb-1550-4794-b963-84801f71bdd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Unit">
+      <UniqueIdentifier>{4e3c7759-6056-4c43-952c-1a5179b66f93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Monster">
+      <UniqueIdentifier>{6a6ae70d-aa24-4e9c-968c-03e59de0d891}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\AI">
+      <UniqueIdentifier>{44965eb4-3d7a-4457-b6de-5a2ea7269ad0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Npc">
+      <UniqueIdentifier>{4eef9525-694a-4e4e-9f7f-0e5fc54f46d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Action">
+      <UniqueIdentifier>{80db1fc7-b22c-43d1-9328-24c23bffc4e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\CustomFile">
+      <UniqueIdentifier>{8aa97d1d-3754-40bd-9d8d-36ce3003557b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Quest">
+      <UniqueIdentifier>{86dafd06-3da8-4677-89f0-93c3ce0625fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Chunk">
+      <UniqueIdentifier>{afeddc09-1490-4828-973a-96ed02c63d01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Action\Interface">
+      <UniqueIdentifier>{b51f1972-d36b-417e-b4d2-67aa917f202f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Scene">
+      <UniqueIdentifier>{9fd9821e-0608-41aa-bf44-bac59a8d55e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Scene\Interface">
+      <UniqueIdentifier>{50fec5da-4d95-45da-8737-e92c497a6fb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Obj">
+      <UniqueIdentifier>{edb74264-202b-4b07-8e37-cb38f410a500}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Map">
+      <UniqueIdentifier>{05fbbbfe-bea4-4b2b-9171-0443f3d86a4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Map\Interface">
+      <UniqueIdentifier>{0549fde8-4e46-4036-822c-9ee4e5dfc663}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Map\ObjMap">
+      <UniqueIdentifier>{00abee9c-c296-4348-8ac2-e73182e00a96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Map\HeightMap">
+      <UniqueIdentifier>{589ce12a-8f54-47b6-8f78-6352665644fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Effect">
+      <UniqueIdentifier>{22560d5a-4150-46dd-a695-84888928f524}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Skill">
+      <UniqueIdentifier>{1becd4ea-256b-454a-8d27-f8dbf2c1aaa2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Manager\Device">
+      <UniqueIdentifier>{b6fee983-8884-4e72-8741-a46a84ce9386}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Manager\Effect">
+      <UniqueIdentifier>{ae95c3ec-5246-421a-a98b-7ac7a88eaf19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Manager\Entity">
+      <UniqueIdentifier>{728fc56b-c28e-480f-a01a-c8d490439174}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Manager\Font">
+      <UniqueIdentifier>{0d5b389a-7cdd-40fc-bce8-847072c4baae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Manager\Frustum">
+      <UniqueIdentifier>{689b8767-f2b1-440e-90e7-e0045ccc02c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Manager\Object">
+      <UniqueIdentifier>{06bc9d1f-63e5-469d-b07c-ec4e83814604}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Manager\Scene">
+      <UniqueIdentifier>{f2917f2a-7a7e-442c-8230-b828354ea901}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Manager\Skill">
+      <UniqueIdentifier>{a9590c5d-abbb-405d-b61c-0f2b43c36098}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Manager\SkinnedMesh">
+      <UniqueIdentifier>{35dfe459-32c7-4bf9-8d75-faa056e9558b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Manager\Texture">
+      <UniqueIdentifier>{1c2f69df-a188-4b51-b725-74044b0f456d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Manager\Time">
+      <UniqueIdentifier>{5af09e39-fa3b-4362-97c9-6be71fd58a89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Manager\Unit">
+      <UniqueIdentifier>{233b5b94-5b28-499a-84da-7dfc272cb83b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Manager\Sound">
+      <UniqueIdentifier>{e81c2866-8fea-48c0-bd9e-a1149c05c256}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Building">
+      <UniqueIdentifier>{9ec88581-1193-4e71-ad0f-e6b47f8175d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Object">
+      <UniqueIdentifier>{1c87ab31-7694-43ed-9719-4a767094ab90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Manager\Intersect">
+      <UniqueIdentifier>{a848c563-77f9-4253-9ad1-828190450378}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Picking">
+      <UniqueIdentifier>{ef0730bf-b624-4489-a8f4-2bd81610b1a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Player\Skill">
+      <UniqueIdentifier>{de6c3068-d028-4d6c-a20b-86b6bc7a636d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Manager\Tile">
+      <UniqueIdentifier>{d84f65c5-1cf8-4854-b68a-834dba6d4c88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Manager\Ray">
+      <UniqueIdentifier>{5f608f7b-cd11-48a4-9243-e803fca0dfb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Manager\Obj">
+      <UniqueIdentifier>{8a1674cb-80b8-47fe-ab7f-1b66faefd4a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\DataLoad">
+      <UniqueIdentifier>{2d1c279a-e67b-4f14-86b8-859aef201a4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\UI\UI%28ex%29">
+      <UniqueIdentifier>{f4db1c05-cc49-49ec-bfde-df9e6508938d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\UI\UI%28ex%29\cUITextView">
+      <UniqueIdentifier>{4cc54431-9dd3-4167-8637-60d7c0f4b7db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\UI\UI%28ex%29\cUIImageView">
+      <UniqueIdentifier>{9fb6deb5-9c84-4c83-9812-109baaabaa7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\UI\UI%28ex%29\cUIButton">
+      <UniqueIdentifier>{d3488692-e10f-498e-b832-a1023ba80fa8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\UI\UI%28list%29">
+      <UniqueIdentifier>{2778a786-f82f-4459-86e8-b59f3ab7dd98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\UI\UI%28list%29\cUIStatus">
+      <UniqueIdentifier>{2e792e72-45b9-4e8a-a4df-a697a6edde5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\UI\UI%28list%29\cUIInterface">
+      <UniqueIdentifier>{eab0f904-0aef-40a8-b880-ec82d2089fed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\UI\UI%28list%29\cUIInvenTory">
+      <UniqueIdentifier>{87833c53-d6bd-4c51-97c9-f7abd4bb6002}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\UI\UI%28list%29\cUILoading">
+      <UniqueIdentifier>{dc494a4e-929b-4888-b521-acaa930d5104}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\UI\UI%28list%29\cUIMainView">
+      <UniqueIdentifier>{ad81948a-c8b5-46f2-a3e1-e5953d30dfca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Octree">
+      <UniqueIdentifier>{807e1888-2833-41df-a6b2-d13cb3bbcd3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Scene\GameScene">
+      <UniqueIdentifier>{96c553da-5712-4933-b728-57cd88955d1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Scene\LoadingScene">
+      <UniqueIdentifier>{e0628a36-b882-49d0-b80b-2ace3317a1bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Scene\MenuScene">
+      <UniqueIdentifier>{1cd6dbd0-3ed1-470d-85a5-8365d7e8a96f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Scene\SelectScene">
+      <UniqueIdentifier>{7643f063-9eef-4d7e-89b9-e27b41cd536c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Scene\MapToolScene">
+      <UniqueIdentifier>{e8b210f8-a1ee-4663-9392-4d1234ca234b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Manager\UI">
+      <UniqueIdentifier>{1c670871-ef71-4dc9-9277-aa85b816493f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Player\Action">
+      <UniqueIdentifier>{f93d60ad-5caf-4fde-953c-1655823dbf08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Player\Action\Normal">
+      <UniqueIdentifier>{c8dab479-eb75-427d-81aa-4641588480de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Player\Action\Battle">
+      <UniqueIdentifier>{d3f42faf-83cd-4ba1-a465-ea75e30457be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Player\Action\Move">
+      <UniqueIdentifier>{2998837c-7c96-44bb-833a-0bc317ae5ed2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Player\Action\Attack">
+      <UniqueIdentifier>{f35b0643-21df-438f-a85d-820fadbf77e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Player\Action\Stand">
+      <UniqueIdentifier>{d7c0ca98-79b4-4881-ae49-fb3877c9304f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Text">
+      <UniqueIdentifier>{d4141369-7341-4eec-a76a-1bffc3eb7ee9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Buff">
+      <UniqueIdentifier>{402c94f4-9e28-44ce-8b84-8db6a449bce0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Buff\Interface">
+      <UniqueIdentifier>{3c8f760d-e904-473c-b546-f8483ff495d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Buff\Stun">
+      <UniqueIdentifier>{d6bc71da-86b6-4698-bd0a-43a80ef9e13c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Scene\MapToolScene\View">
+      <UniqueIdentifier>{e85049d3-8688-4e09-a0f0-83fbd6b07e6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Effect\PlayerEffect">
+      <UniqueIdentifier>{a7a6fb6e-1243-495a-bc7b-dbfbe7b291be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\UI\UI%28list%29\cUIRootItem">
+      <UniqueIdentifier>{0f5d1a55-ba8c-4950-91c9-918e70cb6032}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\item">
+      <UniqueIdentifier>{b019b352-2547-4aa7-9424-6001e3b85f40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Manager\Shader">
+      <UniqueIdentifier>{c53f936a-740b-41d9-ab64-791e441112ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\UI\UI%28list%29\cUISkill">
+      <UniqueIdentifier>{5e8f7b60-4a91-447c-b14f-1ae378aef01b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\UI\UI%28list%29\cUIQuest">
+      <UniqueIdentifier>{4a6eae67-fece-4c06-b20a-c109b70d59fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\UI\UI%28list%29\cUIStore">
+      <UniqueIdentifier>{74e54796-2a65-4192-ad9d-7151846dc8ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Scene\Test">
+      <UniqueIdentifier>{5916682e-b833-4bef-af07-853e85e0a63e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Entity\Action\Skill">
+      <UniqueIdentifier>{819af4ff-fbb3-4ac4-93cc-36f0d741083b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DFrameWork\Effect\MosterEffect">
+      <UniqueIdentifier>{f6e37a7e-a0b9-4799-848d-3714c1b931ae}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="3DFrameWork.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

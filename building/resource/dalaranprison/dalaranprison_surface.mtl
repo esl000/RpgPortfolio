@@ -1,0 +1,114 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 27.06.2015 00:48:24
+
+newmtl Dungeons_Textures_Dalaran_Sewers_Dal_Sewer_Brick
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Dal_Sewer_Brick.tga
+map_Kd Dal_Sewer_Brick.tga
+
+newmtl Dungeons_Textures_Dalaran_Sewers_Dal_Sewer_Plainwall02
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Dal_Sewer_Plainwall02.tga
+map_Kd Dal_Sewer_Plainwall02.tga
+
+newmtl Dungeons_Textures_Dalaran_Sewers_Dal_Sewer_Trim01
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Dal_Sewer_Trim01.tga
+map_Kd Dal_Sewer_Trim01.tga
+
+newmtl Dungeons_Textures_Rock_Bm_Kzn_Rubble01
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Bm_Kzn_Rubble01.tga
+map_Kd Bm_Kzn_Rubble01.tga
+
+newmtl Dungeons_Textures_Dalaran_Sewers_Dal_Sewer_Archstone1
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Dal_Sewer_Archstone1.tga
+map_Kd Dal_Sewer_Archstone1.tga
+
+newmtl Dungeons_Textures_Dalaran_Dal_Floor_Prison
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Dal_Floor_Prison.tga
+map_Kd Dal_Floor_Prison.tga
+
+newmtl Dungeons_Textures_Dalaran_Eb_Dalaran_Trim002Dark
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Eb_Dalaran_Trim002Dark.tga
+map_Kd Eb_Dalaran_Trim002Dark.tga
+
+newmtl Dungeons_Textures_Dalaran_Dal_Stairs_Drk
+Ns 0.0000
+Ni 1.5000
+d 1.0000
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000 
+illum 2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7500 0.7500 0.7500
+Ks 0.0000 0.0000 0.0000
+Ke 0.0000 0.0000 0.0000
+map_Ka Dal_Stairs_Drk.tga
+map_Kd Dal_Stairs_Drk.tga

@@ -1,0 +1,4 @@
+name:orctent01
+mesh_folder:object/resource/orctent(2)/orctent01
+mesh_file:durotarorctent01.obj
+collision:1

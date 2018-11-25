@@ -1,0 +1,5 @@
+name:tent02_bb
+isbb:1
+x:6
+y:3
+z:5

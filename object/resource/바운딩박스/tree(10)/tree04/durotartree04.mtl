@@ -1,0 +1,68 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 파일 생성됨: 19.06.2015 01:26:35
+
+newmtl BadPalmTree02_Dbl
+	Ns 0.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.250000 0.250000 0.250000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\DaeKyung\Desktop\가마우지\포트폴리오\박건욱 강시훤 김민수 채대경\3D FrameWork\object\resource\tree(10)\tree04\BadPalmTree02.tga
+	map_Kd C:\Users\DaeKyung\Desktop\가마우지\포트폴리오\박건욱 강시훤 김민수 채대경\3D FrameWork\object\resource\tree(10)\tree04\BadPalmTree02.tga
+
+newmtl BadPalmTree_Trunk01
+	Ns 0.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.250000 0.250000 0.250000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\DaeKyung\Desktop\가마우지\포트폴리오\박건욱 강시훤 김민수 채대경\3D FrameWork\object\resource\tree(10)\tree04\BadPalmTree_Trunk01.tga
+	map_Kd C:\Users\DaeKyung\Desktop\가마우지\포트폴리오\박건욱 강시훤 김민수 채대경\3D FrameWork\object\resource\tree(10)\tree04\BadPalmTree_Trunk01.tga
+
+newmtl Badcoconut01
+	Ns 0.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.250000 0.250000 0.250000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\DaeKyung\Desktop\가마우지\포트폴리오\박건욱 강시훤 김민수 채대경\3D FrameWork\object\resource\tree(10)\tree04\Badcoconut01.tga
+	map_Kd C:\Users\DaeKyung\Desktop\가마우지\포트폴리오\박건욱 강시훤 김민수 채대경\3D FrameWork\object\resource\tree(10)\tree04\Badcoconut01.tga
+
+newmtl BadPalmTree02_Leaves_Dbl
+	Ns 0.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.250000 0.250000 0.250000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\DaeKyung\Desktop\가마우지\포트폴리오\박건욱 강시훤 김민수 채대경\3D FrameWork\object\resource\tree(10)\tree04\BadPalmTree02_Leaves.tga
+	map_Kd C:\Users\DaeKyung\Desktop\가마우지\포트폴리오\박건욱 강시훤 김민수 채대경\3D FrameWork\object\resource\tree(10)\tree04\BadPalmTree02_Leaves.tga
+
+newmtl wire_225143087
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.882353 0.560784 0.341176
+	Kd 0.882353 0.560784 0.341176
+	Ks 0.350000 0.350000 0.350000

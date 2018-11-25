@@ -1,0 +1,5 @@
+name:ªÛ¿Œ
+mesh_folder:npc/npcResource/orc
+mesh_filename:orc.x
+level:100
+quest:0

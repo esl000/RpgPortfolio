@@ -1,0 +1,9 @@
+name:5πÊ∆–
+mesh_folder:item/Shield/shield01
+mesh_filename:shield01.X
+item_texture:UI/(10)Item/shield01.png
+gold:10000
+defense:10000
+level:5
+item_type:4
+rotation:1

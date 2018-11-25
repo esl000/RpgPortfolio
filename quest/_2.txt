@@ -1,0 +1,8 @@
+questkind:main
+name:볼진을 만나보자
+lore:고맙군. 덕분에 많이 줄어 든거같군. 볼진이 필요한것이 잇는거같군 번개도마뱀의 이빨을 좀 모아서 가져다주게나.
+level:3
+takeitem:번개도마뱀의 이빨
+takeitemamount:10
+exp:300
+money:800

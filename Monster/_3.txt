@@ -1,0 +1,11 @@
+name:¾Ç¾î
+mesh_folder:Monster/Resource/crocodile
+mesh_filename:crocodile.X
+monster_Texture:UI/(4)Interface/Interface_18.png
+level:10
+damage:50
+defence:25
+hp:198
+exp:200
+money:100
+giveitem:5¸Ó¸®

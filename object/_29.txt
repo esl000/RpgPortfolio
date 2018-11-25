@@ -1,0 +1,4 @@
+name:tree02
+mesh_folder:object/resource/tree(10)/tree02
+mesh_file:durotartree02.obj
+collision:1

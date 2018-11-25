@@ -1,0 +1,5 @@
+name:rock06_bb
+isbb:1
+x:72
+y:47
+z:82

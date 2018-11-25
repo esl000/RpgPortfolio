@@ -1,0 +1,352 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# ÆÄÀÏ »ý¼ºµÊ: 06.06.2015 22:48:11
+
+newmtl Dungeons_Textures_Roof_Mm_Ogrmr_Roof_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Roof_01.tga
+	map_Kd Mm_Ogrmr_Roof_01.tga
+
+newmtl Dungeons_Textures_Roof_Mm_Ogrmr_Roof_03
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Roof_03.tga
+	map_Kd Mm_Ogrmr_Roof_03.tga
+
+newmtl Dungeons_Textures_Trim_Mm_Ogrmr_Trim_02
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Trim_02.tga
+	map_Kd Mm_Ogrmr_Trim_02.tga
+
+newmtl Dungeons_Textures_Floor_Mm_Ogrmr_Floor_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Floor_01.tga
+	map_Kd Mm_Ogrmr_Floor_01.tga
+
+newmtl Dungeons_Textures_Floor_Mm_Ogrmr_Ground_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Ground_01.tga
+	map_Kd Mm_Ogrmr_Ground_01.tga
+
+newmtl Dungeons_Textures_Floor_Mm_Ogrmr_Road_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Road_01.tga
+	map_Kd Mm_Ogrmr_Road_01.tga
+
+newmtl Dungeons_Textures_Trim_Mm_Ogrmr_Road_Trim_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Road_Trim_01.tga
+	map_Kd Mm_Ogrmr_Road_Trim_01.tga
+
+newmtl Dungeons_Textures_Decoration_Bearskinrug01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Bearskinrug01.tga
+	map_Kd Bearskinrug01.tga
+
+newmtl Dungeons_Textures_Roof_Mm_Ogrmr_Roof_02
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Roof_02.tga
+	map_Kd Mm_Ogrmr_Roof_02.tga
+
+newmtl Dungeons_Textures_Floor_Mm_Ogrmr_Floor_02
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Floor_02.tga
+	map_Kd Mm_Ogrmr_Floor_02.tga
+
+newmtl Dungeons_Textures_Walls_Mm_Ogrmr_Wall_Brks_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Wall_Brks_01.tga
+	map_Kd Mm_Ogrmr_Wall_Brks_01.tga
+
+newmtl Dungeons_Textures_Walls_Mm_Ogrmr_Wall_02
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Wall_02.tga
+	map_Kd Mm_Ogrmr_Wall_02.tga
+
+newmtl Dungeons_Textures_Walls_Mm_Ogrmr_Wall_04
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Wall_04.tga
+	map_Kd Mm_Ogrmr_Wall_04.tga
+
+newmtl Dungeons_Textures_Roof_Mm_Ogrmr_Roof_01B
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Roof_01B.tga
+	map_Kd Mm_Ogrmr_Roof_01B.tga
+
+newmtl Dungeons_Textures_Walls_Mm_Ogrmr_Wall_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Wall_01.tga
+	map_Kd Mm_Ogrmr_Wall_01.tga
+
+newmtl Dungeons_Textures_Walls_Mm_Ogrmr_Wall_03
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Wall_03.tga
+	map_Kd Mm_Ogrmr_Wall_03.tga
+
+newmtl Dungeons_Textures_Decoration_Mm_Thrall_Rug_04
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Thrall_Rug_04.tga
+	map_Kd Mm_Thrall_Rug_04.tga
+
+newmtl Dungeons_Textures_Roof_Bm_Troll_Kotoskin01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Bm_Troll_Kotoskin01.tga
+	map_Kd Bm_Troll_Kotoskin01.tga
+
+newmtl Dungeons_Textures_Trim_Mm_Ogrmr_Trim_03
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Trim_03.tga
+	map_Kd Mm_Ogrmr_Trim_03.tga
+
+newmtl Dungeons_Textures_Roof_Mm_Ogrmr_Shmn_Roof_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Shmn_Roof_01.tga
+	map_Kd Mm_Ogrmr_Shmn_Roof_01.tga
+
+newmtl Dungeons_Textures_Walls_Mm_Ogrmr_Shmn_Wall_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Shmn_Wall_01.tga
+	map_Kd Mm_Ogrmr_Shmn_Wall_01.tga
+
+newmtl Dungeons_Textures_Roof_Mm_Ogrmr_Shmn_Roof_02
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Shmn_Roof_02.tga
+	map_Kd Mm_Ogrmr_Shmn_Roof_02.tga
+
+newmtl Dungeons_Textures_Trim_Mm_Ogrmr_Int_Trim_02
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Int_Trim_02.tga
+	map_Kd Mm_Ogrmr_Int_Trim_02.tga
+
+newmtl Dungeons_Textures_Rock_Mm_Ogrmr_Rock_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Rock_01.tga
+	map_Kd Mm_Ogrmr_Rock_01.tga
+
+newmtl Dungeons_Textures_Walls_Mm_Ogrmr_Wall_Brks_02
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2500 0.2500 0.2500
+	Kd 0.7500 0.7500 0.7500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mm_Ogrmr_Wall_Brks_02.tga
+	map_Kd Mm_Ogrmr_Wall_Brks_02.tga

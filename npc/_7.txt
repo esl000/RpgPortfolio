@@ -1,0 +1,5 @@
+name:band03
+mesh_folder:npc/npcResource/undead
+mesh_filename:undead.x 
+level:100
+quest:0

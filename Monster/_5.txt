@@ -1,0 +1,11 @@
+name:∑¶≈Õ
+mesh_folder:Monster/Resource/raptor
+mesh_filename:raptor.X
+monster_Texture:UI/(4)Interface/Interface_20.png
+level:7
+damage:35
+defence:17
+hp:137
+exp:200
+money:100
+giveitem:5∏”∏Æ

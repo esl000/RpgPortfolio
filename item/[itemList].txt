@@ -1,0 +1,15 @@
+[helm]
+_0 : helm01
+0~4 머리
+
+[shoulder]
+_1 : shoulder_l01, shoulder_r01
+5~9 어꺠
+
+[weapon]
+_2 : weapon01
+10~14 무기
+
+[shield]
+_3 : shield01
+15~19 방패

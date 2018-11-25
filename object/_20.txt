@@ -1,0 +1,4 @@
+name:rock05
+mesh_folder:object/resource/rock(17)/rock05
+mesh_file:durotarrock05.obj
+collision:1

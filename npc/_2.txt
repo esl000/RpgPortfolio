@@ -1,0 +1,6 @@
+name:½º¶ö
+mesh_folder:npc/npcResource/thrall
+mesh_filename:thrall.X
+level:100
+lore:-0-!
+quest:½º¶ö°úÀÇ ´ë¸é

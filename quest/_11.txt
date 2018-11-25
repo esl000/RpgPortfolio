@@ -1,0 +1,8 @@
+questkind:sub
+name:전갈퇴치 너무 귀찮다
+lore:전갈을 10마리만 퇴치 해주시오
+level:11
+target:전갈
+targetdeath:10
+exp:1200
+money:1000

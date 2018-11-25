@@ -1,0 +1,10 @@
+name:1¾î±ú
+mesh_folder:item/Shoulder/shoulder02
+mesh_filename:shoulder_l02.X
+mesh_subfilename:shoulder_r02.X
+item_texture:UI/(10)Item/shoulder02.png
+gold:5
+defense:2
+level:1
+item_type:1
+rotation:1

@@ -1,0 +1,8 @@
+questkind:main
+name:번개도마뱀 퇴치 작업
+lore: 번개도마뱀을 잡아주엇군 하지만 아직 번개도마뱀의 수가 줄지 않은거 같군 20마리더 처치해주시오.
+level:2
+target:번개도마뱀
+targetdeath:20
+exp:200
+money:500

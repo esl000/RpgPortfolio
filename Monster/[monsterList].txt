@@ -1,0 +1,8 @@
+_0 : 창조자대경
+_1 : 몬스터강시훤
+_2 : boar
+_3 : crocodile
+_4 : harpy
+_5 : raptor
+_6 : scorpion
+_7 : thunderlizard

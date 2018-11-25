@@ -1,0 +1,9 @@
+questkind:main
+name:스랄과의 대면
+lore:형제여 반갑소. 내가 스랄이오. 미안하지만 지금은 자기소개를 할 시간이 없군. 지금 백성들이 맹독전갈에게 많은 피해를 입고있소. 맹독전갈 10마리를 처치해 주시오.
+level:1
+target:전갈
+targetdeath:10
+exp:100
+money:100
+giveitem:5머리

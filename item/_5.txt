@@ -1,0 +1,10 @@
+name:5¾î±ú
+mesh_folder:item/Shoulder/shoulder01
+mesh_filename:shoulder_l01.X
+mesh_subfilename:shoulder_r01.X
+item_texture:UI/(10)Item/shoulder01.png
+gold:50000
+defense:20000
+level:5
+item_type:1
+rotation:1

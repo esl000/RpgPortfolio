@@ -1,0 +1,5 @@
+name:bb03
+isbb:1
+x:1
+y:1
+z:10

@@ -1,0 +1,11 @@
+name:µ¥½ºÀ®
+mesh_folder:Monster/Resource/deathwing
+mesh_filename:deathwing.X
+monster_Texture:UI/(4)Interface/Interface_23.png
+level:100
+damage:100
+defence:5000
+hp:1000000
+exp:100000
+money:10000
+giveitem:5¸Ó¸®

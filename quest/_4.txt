@@ -1,0 +1,8 @@
+questkind:main
+name:멧돼지 소탕하기
+lore:고맙군, 하지만 아직 피해가 계속해서 속출하고있다네. 조금 더 퇴치를 부탁하네.
+level:5
+target:멧돼지
+targetdeath:20
+exp:700
+money:1000

@@ -1,0 +1,116 @@
+#
+# dalaranprison.mtl
+#
+
+newmtl Dungeons\Textures\Dalaran\Sewers\Dal_Sewer_Plainwall01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Dal_Sewer_Plainwall01.tga
+
+newmtl Dungeons\Textures\Dalaran\Sewers\Dal_Sewer_Brick
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Dal_Sewer_Brick.tga
+
+newmtl Dungeons\Textures\Dalaran\Sewers\Dal_Sewer_Plainwall02
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Dal_Sewer_Plainwall02.tga
+
+newmtl Dungeons\Textures\Dalaran\Sewers\Dal_Sewer_Trim01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Dal_Sewer_Trim01.tga
+
+newmtl Dungeons\Textures\Dalaran\Sewers\Dal_Sewer_Trim02
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Dal_Sewer_Trim02.tga
+
+newmtl Dungeons\Textures\Rock\Bm_Kzn_Rubble01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Bm_Kzn_Rubble01.tga
+
+newmtl Dungeons\Textures\Dalaran\Eb_Dalaran_Stonetrim4
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Eb_Dalaran_Stonetrim4.tga
+
+newmtl Dungeons\Textures\Dalaran\Sewers\Dal_Sewer_Archstone1
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Dal_Sewer_Archstone1.tga
+
+newmtl Dungeons\Textures\Dalaran\Dal_Walldecodark_Btm
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Dal_Walldecodark_Btm.tga
+
+newmtl Dungeons\Textures\Dalaran\Dal_Floor_Prison
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Dal_Floor_Prison.tga
+
+newmtl Dungeons\Textures\Dalaran\Eb_Dalaran_Fence
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Eb_Dalaran_Fence.tga
+
+newmtl Dungeons\Textures\Dalaran\Dal_Trim03
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Dal_Trim03.tga
+
+newmtl Dungeons\Textures\Dalaran\Eb_Dalaran_Trim002Dark
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Eb_Dalaran_Trim002Dark.tga
+
+newmtl Dungeons\Textures\Dalaran\Dal_Stairs_Drk
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Dal_Stairs_Drk.tga
+
+newmtl Dungeons\Textures\Dalaran\Sewers\Dal_Sewer_Stonetrim02
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Dal_Sewer_Stonetrim02.tga
+
+newmtl Dungeons\Textures\Dalaran\Eb_Dalaran_Tinycrystalred
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Eb_Dalaran_Tinycrystalred.tga
+

@@ -1,0 +1,9 @@
+name:1°Ë
+mesh_folder:item/Sword/weapon05
+mesh_filename:weapon05.X
+item_texture:UI/(10)Item/sword05.png
+gold:1
+damage:1
+level:1
+item_type:3
+rotation:0

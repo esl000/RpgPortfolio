@@ -1,0 +1,5 @@
+name:s_rock02_bb
+isbb:1
+x:28
+y:11
+z:9
